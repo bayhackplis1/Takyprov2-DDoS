@@ -1,7 +1,7 @@
-git clone https://github.com/bayhackplis1/Yurine-BOT
+git clone https://github.com/bayhackplis1/Takyprov2-DDoS
 
 
-cd Yurine-BOT
+cd Takyprov2-DDoS
 
 
 npm install
