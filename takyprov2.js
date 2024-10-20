@@ -367,6 +367,7 @@ const pathts = [
 ];
 
 const refers = [
+  "https://dash.skyultraplus.com/", 
   "https://www.google.com/search?q=",
   "https://check-host.net/",
   "https://www.facebook.com/",
